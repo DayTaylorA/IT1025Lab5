@@ -1,7 +1,7 @@
 # IT1025Lab5
 
 #### Taylor Day
->Next year, I would like to have a more than basic idea of how to program.
+>Next year, I would like to have more than just a basic idea of how to program.
 
 Course Number | Course Name
 --------- | -------
