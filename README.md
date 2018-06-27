@@ -5,7 +5,10 @@
 
 Course Number | Course Name
 --------- | -------
-IT1050 | Programming
+IT 1050 | Programming
+MATH 1540 | Trigonometry
+PHIL 2020 | Ethics
+CHEM 1300 | Gen Chem
 
 ##### Example Code
 ```xml
