@@ -1,6 +1,6 @@
 # IT1025Lab5
 
-#### Taylor Day
+### Taylor Day
 >Next year, I would like to be able to learn and understand multiples programming languages better.
 
 Course Number | Course Name
@@ -10,7 +10,7 @@ MATH 1540 | Trigonometry
 PHIL 2020 | Ethics
 CHEM 1300 | Gen Chem
 
-##### Example Code
+#### Example Code
 ```html
 <html>
   <header>
