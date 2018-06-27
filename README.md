@@ -11,8 +11,8 @@ PHIL 2020 | Ethics
 CHEM 1300 | Gen Chem
 
 ##### Example Code
-```xml
-<xml>
+```html
+<html>
   <header>
     Hola!
     <header/>
